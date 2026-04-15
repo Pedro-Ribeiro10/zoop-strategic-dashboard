@@ -3,14 +3,6 @@
 ## 📝 Descrição do Projeto
 Este projeto foi desenvolvido para atuar como uma ferramenta de tomada de decisão para os gestores da Zoop Megastore. O foco principal foi transformar dados brutos de vendas em um Dashboard interativo que responde a perguntas críticas de negócio, permitindo o acompanhamento de metas e a análise da satisfação do cliente.
 
-## 🖼️ Visualização do Dashboard
-
-### Página 1: Visão Estratégica (KPIs e Metas)
-![Página 1 do Dashboard](Página 1 - Projeto 2 - Zoop Megastore.png)
-
-### Página 2: Detalhamento de Vendas e Canais
-![Página 2 do Dashboard](Página 2 - Projeto 2 - Zoop Megastore.png)
-
 ## ❓ Perguntas de Negócio Respondidas
 1. Qual é a Receita Total, % da Meta Atingida e a Satisfação Média?
 2. Evolução da Receita por dia, mês e ano.
